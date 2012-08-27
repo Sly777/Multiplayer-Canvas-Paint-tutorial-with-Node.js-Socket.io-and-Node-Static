@@ -1,0 +1,6 @@
+html {
+    overflow: hidden;
+}
+canvas {
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAAG0lEQVQIW2OMr7hjzIADMIIkF3aonMUmP+gkAZbQGe4i1wuWAAAAAElFTkSuQmCC) repeat; /* arkaplan resmi :) */
+}
